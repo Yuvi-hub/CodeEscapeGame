@@ -2,17 +2,6 @@
 
 ## Assignment 4: Core Gameplay, Physics and Architecture
 
-### 1. AI Tools Used
-
-ChatGPT was used to assist with the development, debugging, architecture planning, and documentation of Code Escape.
-
-AI assistance included:
-- Generating and organizing Unity C# scripts.
-- Implementing player movement and physics interactions.
-- Designing the class architecture.
-- Creating the UML/Mermaid diagram.
-- Debugging gameplay and Web build issues.
-- Reviewing the implementation against Assignment 4 requirements.
 
 ### 2. Architecture Review
 
