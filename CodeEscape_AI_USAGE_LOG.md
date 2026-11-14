@@ -3,7 +3,7 @@
 ## Assignment 4: Core Gameplay, Physics and Architecture
 
 
-### 2. Architecture Review
+### . Architecture Review
 
 AI was used to compare the planned architecture with the final implementation.
 
@@ -22,7 +22,7 @@ The final project separates responsibilities between the following components:
 
 The architecture uses events to communicate game-state changes to the user interface.
 
-### 3. Differences Between Planned and Final Architecture
+### . Differences Between Planned and Final Architecture
 
 **Change 1 — Rendering system**
 
@@ -50,7 +50,7 @@ The architecture was organized into smaller classes for player movement, collect
 
 **Reason:** Improve maintainability and follow the Single Responsibility Principle.
 
-### 4. Physics Implementation Review
+### . Physics Implementation Review
 
 The project includes the five physics features required by Assignment 4:
 
@@ -64,7 +64,7 @@ The project includes the five physics features required by Assignment 4:
 
 The physics logic is separated from the game's visual presentation.
 
-### 5. Event-Based Communication
+### . Event-Based Communication
 
 `GameSession` publishes events when keys are collected, messages change, or the player wins.
 
@@ -72,7 +72,7 @@ The physics logic is separated from the game's visual presentation.
 
 This approach was selected instead of direct calls between game rules and UI components, reducing dependencies.
 
-### 6. Testing and Debugging
+### . Testing and Debugging
 
 Several iterations were tested during development.
 
@@ -90,7 +90,7 @@ Several iterations were tested during development.
 
 The final revised project was tested in the Unity Editor and confirmed to run successfully.
 
-### 7. AI Contributions and Developer Decisions
+### . AI Contributions and Developer Decisions
 
 AI generated code suggestions, architecture diagrams, documentation, and debugging recommendations.
 
@@ -98,7 +98,7 @@ The developer tested the game in Unity, identified problems, reviewed the result
 
 The final design prioritizes clear class responsibilities, event-based communication, and reliable gameplay.
 
-### 8. Conclusion
+### . Conclusion
 
 AI assistance helped develop and revise Code Escape throughout Assignment 4.
 
