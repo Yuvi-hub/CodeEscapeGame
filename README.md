@@ -233,4 +233,4 @@ Unity's built-in static APIs, including `Input`, `Physics`, `GUI`, and `SceneMan
 
 ### Play Online
 
-**itch.io:** https://yvvvvvv.itch.io/math-kingdom
+**itch.io:** https://yvvvvvv.itch.io/code-escape-2
